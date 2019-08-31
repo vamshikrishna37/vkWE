@@ -1,7 +1,7 @@
-class Demo
+Test class
 {
-ps void main(string())
+class demo
 {
-s.o.p("Hello");
+s.o.p("Happy Vinayaka chavithi");
 }
 }
