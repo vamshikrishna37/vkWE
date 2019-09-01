@@ -1,7 +1,5 @@
-Test class
+Void main()
 {
-class demo
-{
-s.o.p("Happy Vinayaka chavithi");
-}
+s.o.p("Hello");
+s.o.p("How are you");
 }
